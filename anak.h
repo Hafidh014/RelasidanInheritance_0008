@@ -7,7 +7,8 @@ using namespace std;
 
 class anak {
 public:
-
+    string nama;
+    
 };
 
 #endif
