@@ -5,4 +5,9 @@ using namespace std;
 #ifndef ANAK_H
 #define ANAK_H
 
+class anak {
+public:
+
+};
+
 #endif
